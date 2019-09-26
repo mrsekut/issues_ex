@@ -1,6 +1,7 @@
 # IssuesEx
 
-**TODO: Add description**
+CLI tool development for practicing Elixir programming.
+Referring to "Programming Elixir".
 
 ## Installation
 
@@ -18,4 +19,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/issues_ex](https://hexdocs.pm/issues_ex).
-
